@@ -6,9 +6,10 @@ using namespace std;
 
 int main() {
   // TODO: Declare your variables, with comments for each
-  double gallons;
-  double mpg;
-  int percentage;
+
+  double gallons; // The number of gallons in the tank
+  double mpg; // The miles per gallon the vehicle gets
+  int percentage; // The percentage of the tank that is filled
 
   // TODO: Prompt for and input the required values
   cout << "Enter the number of gallons: ";
